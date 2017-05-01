@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chatbot application sample built in Ruby on Rails and integrated with Facebook Messenger, Wikipedia and [API.AI](https://api.ai/).
 
-Things you may want to cover:
+![Screenshot](http://res.cloudinary.com/betogrun/image/upload/v1493609995/chatbot_edfn2w.png)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Based on [Programming Assistant] (https://github.com/leonardoscorza/programming_assistant)
